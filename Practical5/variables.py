@@ -1,8 +1,8 @@
-# On 7 March, 2022, the number of total cases of COVID-19 in the UK was stored in a.
+# On 7 March, 2022, the number of total cases of COVID-19 in the UK was stored >
 a = 19245301
-# On 7 March, 2021, the number of total cases of COVID-19 in the UK was sorted in b.
+# On 7 March, 2021, the number of total cases of COVID-19 in the UK was sorted >
 b = 4218520
-# On 7 March, 2020, the number of total cases of COVID-19 in thr UK was sorted in c.
+# On 7 March, 2020, the number of total cases of COVID-19 in thr UK was sorted >
 c = 271
 # The difference between the numbers of cases in 2020 and 2021 was sorted in d.
 d = b-c
@@ -18,5 +18,4 @@ print(e>d)
 X = True
 Y = False
 W = X and Y
-print(W)
 

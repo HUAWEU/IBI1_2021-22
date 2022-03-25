@@ -1,0 +1,3 @@
+During this course, I have learnt how to work with git and how to make 
+changes and commit to my project. I also learned how to make version control.
+

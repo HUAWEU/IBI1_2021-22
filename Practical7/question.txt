@@ -1,0 +1,11 @@
+Question: How have new cases and total cases developed over time in 
+          Australia?
+
+The line number: 45
+
+Discussion:
+ I have plotted both new cases and total cases in Australia over time to 
+describe the development of cases in Australia. The plot describes the 
+increase of the new cases and total cases,especially around 3.11. Because the
+COVID-19 is highly contagious, as the number of cases increases, the speard of 
+transmission increases and the number of cases spikes.

@@ -27,6 +27,7 @@ plt.boxplot(score,vert = True,whis=1.5,patch_artist=True,
             showcaps=True,showfliers=True,notch=False)
 plt.ylabel('The number of cases or deaths')
 plt.title('The new cases and new deaths in China worldwide')
+plt.legend(['new_cases', 'new_deaths'], loc = 'upper right')
 plt.show()
 
 # plot both new cases and new deaths in China over time
@@ -39,6 +40,7 @@ plt.xticks(china_dates.iloc[0:len(china_dates):4], rotation=-90)
 plt.title('The new cases and new deaths in China over time')
 plt.ylabel('The number of cases or deaths')
 plt.xlabel('Time')
+plt.legend(['china_new_cases', 'china_new_deaths'], loc = 'upper left')
 plt.show()
 
 # the code to answer the question stated in file question.txt
@@ -50,4 +52,5 @@ plt.xticks(date.iloc[0:len(date):4], rotation = -90 )
 plt.title('The development of new cases and total cases over time in Australia')
 plt.ylabel('The number of cases')
 plt.xlabel('Time')
+plt.legend(['total_cases', 'new_cases'], loc = 'upper left')
 plt.show()

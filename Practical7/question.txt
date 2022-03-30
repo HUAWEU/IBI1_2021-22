@@ -1,7 +1,7 @@
 Question: How have new cases and total cases developed over time in 
           Australia?
 
-The line number: 45
+The line number: 47
 
 Discussion:
  I have plotted both new cases and total cases in Australia over time to 

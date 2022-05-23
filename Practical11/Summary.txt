@@ -1,9 +1,0 @@
-Results:
-The alignment score of human-mouse was 1490, human-random was -351 and mouse-random was -348. 
-The percentage of identical amino acids for the comparison between the human and the mouse sequence was 96.5%, 
-between the human and the randon sequence was 2.8% and between the mouse and the random sequence was 3.1%.
-
-From the results, we can see that the human sequence was very similar to the mouse sequence, while the similarity 
-between the human or mouse and the random sequence was very low. Since humans and rats are both mammals,
-and with such similar genetic sequences, I can tell that there is a high probability that humans and rats evolved form a 
-common ancestor.
